@@ -1,0 +1,25 @@
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+img {
+ padding: 25px;
+ max-width: 500px;
+ margin: auto;
+}
+h1 {
+font-family: 'Bebas Neue', cursive;
+color:  #004D40;
+}
+h2 {font-family: 'Bebas Neue', cursive;
+color:  #A52A2A;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color:  #004D40;
+  max-width: 40em;
+  padding: 0 5%;
+  margin: auto;
+  }
