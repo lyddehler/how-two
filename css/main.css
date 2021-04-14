@@ -8,16 +8,18 @@ img {
  max-width: 500px;
  margin: auto;
 }
+
 h1 {
 font-family: 'Bebas Neue', cursive;
 color:  #000000;
 border: 2px solid #000000; padding: 5em; text-align: center;
 }
 
-h2 {font-family: 'Bebas Neue', cursive;
+h2 {
+  font-family: 'Bebas Neue', cursive;
 color:  #A52A2A;
 }
-font family: 'Roboto', sans-sefif;
+
 body {
   font-family: 'Roboto', sans-serif;
   color:  #000000;
